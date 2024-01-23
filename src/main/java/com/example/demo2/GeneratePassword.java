@@ -1,4 +1,4 @@
-package com.example.demo2.controller;
+package com.example.demo2;
 
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
